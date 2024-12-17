@@ -6,3 +6,4 @@ BreastMRI, CXR (Chest X-Ray), ChestCT, Hand, & HeadCT.
 It is necessary to:
   1. Change the path inside my code to fit your path to your Google Colab folder.
   2. Upload my zip file & .ipynb file to the Goolge Colab folder.
+  3. Name the zip file (containing all data) "medical_data" unless you change the code to accomodate.
